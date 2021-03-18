@@ -58,3 +58,12 @@ See also
 
 Credits
 -------
+
+This lesson is based on training material developed by CSC - IT Center for Science in Finland
+(https://github.com/csc-training/hip),
+
+The lesson file structure and browsing layout is inspired by and derived from
+`work <https://github.com/coderefinery/sphinx-lesson>`_ by `CodeRefinery
+<https://coderefinery.org/>`_ licensed under the `MIT license
+<http://opensource.org/licenses/mit-license.html>`_. We have copied and adapted
+most of their license text.
