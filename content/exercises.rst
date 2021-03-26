@@ -1,17 +1,16 @@
 .. _introduction:
 
 
-AMD architecture and ROCm
+Hands-on hipify exercises
 =========================
 
 .. questions::
 
-   - How can CUDA code be ported to HIP?
-   - What can the hipify tool do?
+   - How does hipify work in practice?
      
 .. objectives::
 
-   - Get an overview of what hipify can do
+   - Get hands-on experience in using hipify for C/C++ and Fortran codes
 
 
      

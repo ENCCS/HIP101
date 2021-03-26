@@ -1,8 +1,8 @@
 .. _introduction:
 
 
-AMD architecture and ROCm
-=========================
+HIP 101
+=======
 
 .. questions::
 
