@@ -21,7 +21,30 @@ HIP 101
 HIP-101
 -------
 
+HIP vs CUDA
+^^^^^^^^^^^
 
+
+
+.. figure:: img/differences_cuda_hip_api.png
+   :scale: 50%
+   :alt: CUDA-HIP differences
+   :align: center
+
+
+.. figure:: img/cublas_cuda_hip.png
+   :scale: 70%
+   :alt: cuBLAS CUDA vs HIP
+   :align: center
+	   
+
+.. figure:: img/libraries.png
+   :scale: 70%
+   :alt: HIP and CUDA libraries
+   :align: center
+
+
+	   
 
 .. keypoints::
 

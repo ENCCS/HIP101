@@ -15,14 +15,24 @@ AMD architecture and ROCm
    - Get an overview of the ROCm software stack
 
 
-     
-
 AMD GPUs
 --------
+
+.. figure:: img/amd_architecture.png
+   :scale: 70%
+   :alt: AMD Mi100
+   :align: center
+
 
 
 The ROCm software stack
 -----------------------
+
+.. figure:: img/rocm.png
+   :scale: 70%
+   :alt: ROCm
+   :align: center
+
 
 
 
