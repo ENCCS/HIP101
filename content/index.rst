@@ -1,5 +1,5 @@
-LESSON NAME
-===========
+HIP101
+======
 
 Intro
 
@@ -15,13 +15,22 @@ Intro
    :widths: auto
    :delim: ;
 
-   20 min ; :doc:`filename`
-
+   15 min ; :doc:`introduction`
+   15 min ; :doc:`rocm`
+   20 min ; :doc:`hip101`
+   40 min ; :doc:`hipify`
+   80 min ; :doc:`exercises`
 
 .. toctree::
+   :hidden:
    :maxdepth: 1
    :caption: The lesson
 
+   introduction
+   rocm
+   hip101
+   hipify
+   exercises
 
 .. toctree::
    :maxdepth: 1
