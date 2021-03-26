@@ -17,10 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LESSON NAME'
+project = 'HIP101'
 copyright = '2020, The contributors'
 author = 'The contributors'
-github_user = 'coderefinery'
+github_user = 'ENCCS'
 github_repo_name = ''  # auto-detected from dirname if blank
 github_version = 'master'
 conf_py_path = '/content/' # with leading and trailing slash
@@ -62,6 +62,8 @@ exclude_patterns = ['README*', '_build', 'Thumbs.db', '.DS_Store',
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+html_logo = "img/ENCCS_CSC_logos.jpg"
+html_favicon = "img/favicon.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
